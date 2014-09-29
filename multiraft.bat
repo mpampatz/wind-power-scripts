@@ -47,10 +47,11 @@ exit /b
 :: echo ustop=..
 :: set /p ustop=
 
-echo omega=
-set /p omega=
   set /a ustep=1
   set /a ustop=%ustart%
+  
+  echo omega=
+  set /p omega=
 
   echo Pitch =..
   set /p Pitch=
