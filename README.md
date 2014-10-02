@@ -1,4 +1,4 @@
 wind-power-scripts
 ==================
 
-raft made easy
+Raft automated.
